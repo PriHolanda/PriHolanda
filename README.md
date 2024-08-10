@@ -1,7 +1,7 @@
 ### Olá, eu sou a Priscila 👋
 
-- 🧑‍🎓 Téc. Informática 2/3
-- 🧑‍💻 Estudando atualmente HTML, CSS, JavaScript e React
+- 🧑‍🎓 Téc. Informática
+- 🧑‍💻 Estudando atualmente HTML, CSS, JavaScript, React e C
 - 📱Instagram: @Pri_hollanda
 
 <div align="center">
